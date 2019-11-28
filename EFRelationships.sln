@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFRelationships.Web", "EFRelationships.Web\EFRelationships.Web.csproj", "{EA19C2D2-4870-4B07-9296-6A5EFA0347AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFRelationships.Data", "EFRelationships.Data\EFRelationships.Data.csproj", "{0ECE45FA-A0B0-47B9-8F6F-C56421912E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA19C2D2-4870-4B07-9296-6A5EFA0347AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA19C2D2-4870-4B07-9296-6A5EFA0347AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA19C2D2-4870-4B07-9296-6A5EFA0347AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA19C2D2-4870-4B07-9296-6A5EFA0347AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECE45FA-A0B0-47B9-8F6F-C56421912E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECE45FA-A0B0-47B9-8F6F-C56421912E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECE45FA-A0B0-47B9-8F6F-C56421912E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECE45FA-A0B0-47B9-8F6F-C56421912E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF2A810-39A0-44D6-BE5E-BA43CE80DAD6}
+	EndGlobalSection
+EndGlobal
